@@ -1,7 +1,7 @@
 CodeBook for the tidy dataset
 =============================
 
-This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" (see here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+The raw dataset used by the <b>run_analysis.r</b> script is derived from the "Human Activity Recognition Using Smartphones Data Set" (see here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The script merges, manipulates, and transforms this raw dataset into a tidy dataset. For more information on the actions performed by the script, please refer to the README.md file in the 'GettingDataCourseProject' repository.
 
 The README and features.txt files from the original dataset contain information about the feature selection for this dataset:
 
